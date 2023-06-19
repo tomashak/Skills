@@ -22,6 +22,7 @@ TA, TM, PM
 
 ## Předchůdce
 [[006_Studování test báze]]
+[[006_Studování test báze]]
 
 # Vzdělávání
 školení "Test analýza prakticky"

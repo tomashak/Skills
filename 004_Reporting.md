@@ -22,6 +22,7 @@ DM, Project manager, zástupce klienta
 
 ## Předchůdce
 [[000_Tesena skilly]]
+[[000_Tesena skilly]]
 
 # Vzdělávání
 školení "Úvod do testování"
