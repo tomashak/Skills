@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "name": "",
+      "relativePath": "/"
+    },
+    {
+      "name": "Template",
+      "relativePath": "Template"
+    }
+  ],
+  "nonMdFiles": [
+    {
+      "name": "netlify.toml",
+      "basename": "netlify",
+      "relativePath": "netlify.toml"
+    }
+  ]
+}

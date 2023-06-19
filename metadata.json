@@ -1,0 +1,595 @@
+[
+  {
+    "fileName": "skill",
+    "relativePath": "Template/skill.md",
+    "frontmatter": {
+      "id": null,
+      "level": null,
+      "branch": null,
+      "must have": null,
+      "mentor": null,
+      "predchudce": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 70
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Popis",
+        "level": 1
+      },
+      {
+        "heading": "Přidaná hodnota",
+        "level": 2
+      },
+      {
+        "heading": "Výstup",
+        "level": 2
+      },
+      {
+        "heading": "Konzument",
+        "level": 2
+      },
+      {
+        "heading": "Předchůdce",
+        "level": 2
+      },
+      {
+        "heading": "Vzdělávání",
+        "level": 1
+      },
+      {
+        "heading": "Mentor",
+        "level": 2
+      },
+      {
+        "heading": "Zdroje",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "README",
+    "relativePath": "README.md",
+    "headings": [
+      {
+        "heading": "Tesena-skills",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "007_Revize dokumentů",
+    "relativePath": "007_Revize dokumentů.md",
+    "frontmatter": {
+      "id": 7,
+      "level": "senior",
+      "branch": "Test analýza",
+      "must have": null,
+      "mentor": "Kamila Kozakovičová",
+      "predchudce": 6,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 106
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Popis",
+        "level": 1
+      },
+      {
+        "heading": "Přidaná hodnota",
+        "level": 2
+      },
+      {
+        "heading": "Výstup",
+        "level": 2
+      },
+      {
+        "heading": "Konzument",
+        "level": 2
+      },
+      {
+        "heading": "Předchůdce",
+        "level": 2
+      },
+      {
+        "heading": "Vzdělávání",
+        "level": 1
+      },
+      {
+        "heading": "Mentor",
+        "level": 2
+      },
+      {
+        "heading": "Zdroje",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "006_Studování test báze",
+        "relativePath": "006_Studování test báze.md"
+      },
+      {
+        "link": "006_Studování test báze",
+        "relativePath": "006_Studování test báze.md"
+      }
+    ]
+  },
+  {
+    "fileName": "006_Studování test báze",
+    "relativePath": "006_Studování test báze.md",
+    "frontmatter": {
+      "id": 6,
+      "level": "senior",
+      "branch": "Test analýza",
+      "must have": true,
+      "mentor": null,
+      "predchudce": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 95
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Popis",
+        "level": 1
+      },
+      {
+        "heading": "Přidaná hodnota",
+        "level": 2
+      },
+      {
+        "heading": "Výstup",
+        "level": 2
+      },
+      {
+        "heading": "Konzument",
+        "level": 2
+      },
+      {
+        "heading": "Předchůdce",
+        "level": 2
+      },
+      {
+        "heading": "Vzdělávání",
+        "level": 1
+      },
+      {
+        "heading": "Mentor",
+        "level": 2
+      },
+      {
+        "heading": "Zdroje",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "007_Revize dokumentů",
+        "link": "006_Studování test báze",
+        "relativePath": "007_Revize dokumentů.md"
+      },
+      {
+        "fileName": "007_Revize dokumentů",
+        "link": "006_Studování test báze",
+        "relativePath": "007_Revize dokumentů.md"
+      }
+    ]
+  },
+  {
+    "fileName": "005_Práce s defekty",
+    "relativePath": "005_Práce s defekty.md",
+    "frontmatter": {
+      "id": 5,
+      "level": "junior",
+      "branch": "Test exekuce",
+      "must have": true,
+      "mentor": [
+        "David Sedláček"
+      ],
+      "predchudce": 1,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 114
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Popis",
+        "level": 1
+      },
+      {
+        "heading": "Přidaná hodnota",
+        "level": 2
+      },
+      {
+        "heading": "Výstup",
+        "level": 2
+      },
+      {
+        "heading": "Konzument",
+        "level": 2
+      },
+      {
+        "heading": "Předchůdce",
+        "level": 2
+      },
+      {
+        "heading": "Vzdělávání",
+        "level": 1
+      },
+      {
+        "heading": "Mentor",
+        "level": 2
+      },
+      {
+        "heading": "Zdroje",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "000_Tesena skilly",
+        "relativePath": "000_Tesena skilly.md"
+      }
+    ]
+  },
+  {
+    "fileName": "004_Reporting",
+    "relativePath": "004_Reporting.md",
+    "frontmatter": {
+      "id": 4,
+      "level": "junior",
+      "branch": "Test exekuce",
+      "must have": true,
+      "mentor": [
+        "David Sedláček"
+      ],
+      "predchudce": 1,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 107
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Popis",
+        "level": 1
+      },
+      {
+        "heading": "Přidaná hodnota",
+        "level": 2
+      },
+      {
+        "heading": "Výstup",
+        "level": 2
+      },
+      {
+        "heading": "Konzument",
+        "level": 2
+      },
+      {
+        "heading": "Předchůdce",
+        "level": 2
+      },
+      {
+        "heading": "Vzdělávání",
+        "level": 1
+      },
+      {
+        "heading": "Mentor",
+        "level": 2
+      },
+      {
+        "heading": "Zdroje",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "000_Tesena skilly",
+        "relativePath": "000_Tesena skilly.md"
+      },
+      {
+        "link": "000_Tesena skilly",
+        "relativePath": "000_Tesena skilly.md"
+      }
+    ]
+  },
+  {
+    "fileName": "003_Provedení testu po vyřešení bugu",
+    "relativePath": "003_Provedení testu po vyřešení bugu.md",
+    "frontmatter": {
+      "id": 3,
+      "level": "junior",
+      "branch": "Test exekuce",
+      "must have": true,
+      "mentor": [
+        "David Sedláček"
+      ],
+      "predchudce": 1,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 114
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Popis",
+        "level": 1
+      },
+      {
+        "heading": "Přidaná hodnota",
+        "level": 2
+      },
+      {
+        "heading": "Výstup",
+        "level": 2
+      },
+      {
+        "heading": "Konzument",
+        "level": 2
+      },
+      {
+        "heading": "Předchůdce",
+        "level": 2
+      },
+      {
+        "heading": "Vzdělávání",
+        "level": 1
+      },
+      {
+        "heading": "Mentor",
+        "level": 2
+      },
+      {
+        "heading": "Zdroje",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "001_Provedení testu podle sepsaného TC",
+        "relativePath": "001_Provedení testu podle sepsaného TC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "002_Bug reporting",
+    "relativePath": "002_Bug reporting.md",
+    "frontmatter": {
+      "id": 2,
+      "level": "junior",
+      "branch": "Test exekuce",
+      "must have": true,
+      "mentor": [
+        "David Sedláček"
+      ],
+      "predchudce": 0,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 114
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Popis",
+        "level": 1
+      },
+      {
+        "heading": "Přidaná hodnota",
+        "level": 2
+      },
+      {
+        "heading": "Výstup",
+        "level": 2
+      },
+      {
+        "heading": "Konzument",
+        "level": 2
+      },
+      {
+        "heading": "Předchůdce",
+        "level": 2
+      },
+      {
+        "heading": "Vzdělávání",
+        "level": 1
+      },
+      {
+        "heading": "Mentor",
+        "level": 2
+      },
+      {
+        "heading": "Zdroje",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "000_Tesena skilly",
+        "relativePath": "000_Tesena skilly.md"
+      }
+    ]
+  },
+  {
+    "fileName": "001_Provedení testu podle sepsaného TC",
+    "relativePath": "001_Provedení testu podle sepsaného TC.md",
+    "frontmatter": {
+      "id": 1,
+      "level": "junior",
+      "branch": "Test exekuce",
+      "must have": true,
+      "mentor": [
+        "David Sedláček"
+      ],
+      "predchudce": 0,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 7,
+          "col": 3,
+          "offset": 107
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Popis",
+        "level": 1
+      },
+      {
+        "heading": "Přidaná hodnota",
+        "level": 2
+      },
+      {
+        "heading": "Výstup",
+        "level": 2
+      },
+      {
+        "heading": "Konzument",
+        "level": 2
+      },
+      {
+        "heading": "Předchůdce",
+        "level": 2
+      },
+      {
+        "heading": "Vzdělávání",
+        "level": 1
+      },
+      {
+        "heading": "Mentor",
+        "level": 2
+      },
+      {
+        "heading": "Zdroje",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "000_Tesena skilly",
+        "relativePath": "000_Tesena skilly.md"
+      },
+      {
+        "link": "000_Tesena skilly",
+        "relativePath": "000_Tesena skilly.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "003_Provedení testu po vyřešení bugu",
+        "link": "001_Provedení testu podle sepsaného TC",
+        "relativePath": "003_Provedení testu po vyřešení bugu.md"
+      }
+    ]
+  },
+  {
+    "fileName": "000_Tesena skilly",
+    "relativePath": "000_Tesena skilly.md",
+    "headings": [
+      {
+        "heading": "Graf",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "005_Práce s defekty",
+        "link": "000_Tesena skilly",
+        "relativePath": "005_Práce s defekty.md"
+      },
+      {
+        "fileName": "004_Reporting",
+        "link": "000_Tesena skilly",
+        "relativePath": "004_Reporting.md"
+      },
+      {
+        "fileName": "004_Reporting",
+        "link": "000_Tesena skilly",
+        "relativePath": "004_Reporting.md"
+      },
+      {
+        "fileName": "002_Bug reporting",
+        "link": "000_Tesena skilly",
+        "relativePath": "002_Bug reporting.md"
+      },
+      {
+        "fileName": "001_Provedení testu podle sepsaného TC",
+        "link": "000_Tesena skilly",
+        "relativePath": "001_Provedení testu podle sepsaného TC.md"
+      },
+      {
+        "fileName": "001_Provedení testu podle sepsaného TC",
+        "link": "000_Tesena skilly",
+        "relativePath": "001_Provedení testu podle sepsaného TC.md"
+      }
+    ]
+  }
+]
